@@ -6,6 +6,7 @@ using namespace std;
 /*multiline comment*/
 
 int main() {
-	cout << "Hello, World";
-	return 0;
-}
+
+	cout << "new message for spare branch";
+}	return 0;
+
